@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery
+
+	resizeOnImport="false"
+	useFlickr="false"
+	cropToFit="false"
+	backgroundColor="000000"
+	showOpenButton="false"
+
+>
+	<image imageURL="images/Anne.jpg"
+	thumbURL="thumbs/Anne.jpg"
+	linkURL="images/Anne.jpg"
+	linkTarget="_blank">
+		<caption><![CDATA[Anne]]></caption>
+	</image>
+	<image imageURL="images/Antoine.jpg"
+	thumbURL="thumbs/Antoine.jpg"
+	linkURL="images/Antoine.jpg"
+	linkTarget="_blank">
+		<caption><![CDATA[Antoine]]></caption>
+	</image>
+	<image imageURL="images/Aurelien.jpg"
+	thumbURL="thumbs/Aurelien.jpg"
+	linkURL="images/Aurelien.jpg"
+	linkTarget="_blank">
+		<caption><![CDATA[Aurelien]]></caption>
+	</image>
+	<image imageURL="images/Cathy.jpg"
+	thumbURL="thumbs/Cathy.jpg"
+	linkURL="images/Cathy.jpg"
+	linkTarget="_blank">
+		<caption><![CDATA[Cathy]]></caption>
+	</image>
+	<image imageURL="images/Celine.jpg"
+	thumbURL="thumbs/Celine.jpg"
+	linkURL="images/Celine.jpg"
+	linkTarget="_blank">
+		<caption><![CDATA[Céline]]></caption>
+	</image>
+	<image imageURL="images/Charlotte.jpg"
+	thumbURL="thumbs/Charlotte.jpg"
+	linkURL="images/Charlotte.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Charlotte]]></caption>
+  </image>
+	<image imageURL="images/Christian.jpg"
+	thumbURL="thumbs/Christian.jpg"
+	linkURL="images/Christian.jpg"
+	linkTarget="_blank">
+		<caption><![CDATA[Christian]]></caption>
+	</image>
+	<image imageURL="images/Elise.jpg"
+	thumbURL="thumbs/Elise.jpg"
+	linkURL="images/Elise.jpg"
+	linkTarget="_blank">
+		<caption><![CDATA[Elise]]></caption>
+	</image>
+	<image imageURL="images/Emilie.jpg"
+	thumbURL="thumbs/Emilie.jpg"
+	linkURL="images/Emilie.jpg"
+	linkTarget="_blank">
+		<caption><![CDATA[Emilie]]></caption>
+	</image>
+	<image imageURL="images/Evelyne.jpg"
+	thumbURL="thumbs/Evelyne.jpg"
+	linkURL="images/Evelyne.jpg"
+	linkTarget="_blank">
+		<caption><![CDATA[Evelyne]]></caption>
+	</image>
+	<image imageURL="images/EvelyneG.jpg"
+	thumbURL="thumbs/EvelyneG.jpg"
+	linkURL="images/EvelyneG.jpg"
+	linkTarget="_blank">
+		<caption><![CDATA[Evelyne]]></caption>
+	</image>
+	<image imageURL="images/Fanny.jpg"
+	thumbURL="thumbs/Fanny.jpg"
+	linkURL="images/Fanny.jpg"
+	linkTarget="_blank">
+		<caption><![CDATA[Fanny]]></caption>
+	</image>
+	<image imageURL="images/Francis.jpg"
+	thumbURL="thumbs/Francis.jpg"
+	linkURL="images/Francis.jpg"
+	linkTarget="_blank">
+		<caption><![CDATA[Francis]]></caption>
+	</image>
+	<image imageURL="images/Francois.jpg"
+	thumbURL="thumbs/Francois.jpg"
+	linkURL="images/Francois.jpg"
+	linkTarget="_blank">
+		<caption><![CDATA[François]]></caption>
+	</image>
+	<image imageURL="images/Francoise.jpg"
+	thumbURL="thumbs/Francoise.jpg"
+	linkURL="images/Francoise.jpg"
+	linkTarget="_blank">
+		<caption><![CDATA[Françoise]]></caption>
+	</image>
+	<image imageURL="images/Gilles.jpg"
+	thumbURL="thumbs/Gilles.jpg"
+	linkURL="images/Gilles.jpg"
+	linkTarget="_blank">
+		<caption><![CDATA[Gilles]]></caption>
+	</image>
+	<image imageURL="images/Jacko.jpg"
+	thumbURL="thumbs/Jacko.jpg"
+	linkURL="images/Jacko.jpg"
+	linkTarget="_blank">
+		<caption><![CDATA[Jacques]]></caption>
+	</image>
+	<image imageURL="images/Jean.jpg"
+	thumbURL="thumbs/Jean.jpg"
+	linkURL="images/Jean.jpg"
+	linkTarget="_blank">
+		<caption><![CDATA[Jean]]></caption>
+	</image>
+	<image imageURL="images/Laure.jpg"
+	thumbURL="thumbs/Laure.jpg"
+	linkURL="images/Laure.jpg"
+	linkTarget="_blank">
+		<caption><![CDATA[Laure]]></caption>
+	</image>
+	<image imageURL="images/Laurence.jpg"
+	thumbURL="thumbs/Laurence.jpg"
+	linkURL="images/Laurence.jpg"
+	linkTarget="_blank">
+		<caption><![CDATA[Laurence]]></caption>
+	</image>
+	<image imageURL="images/Laurent.jpg"
+	thumbURL="thumbs/Laurent.jpg"
+	linkURL="images/Laurent.jpg"
+	linkTarget="_blank">
+		<caption><![CDATA[Laurent]]></caption>
+	</image>
+	<image imageURL="images/Marie.jpg"
+	thumbURL="thumbs/Marie.jpg"
+	linkURL="images/Marie.jpg"
+	linkTarget="_blank">
+		<caption><![CDATA[Marie]]></caption>
+	</image>
+	<image imageURL="images/Marion.jpg"
+	thumbURL="thumbs/Marion.jpg"
+	linkURL="images/Marion.jpg"
+	linkTarget="_blank">
+		<caption><![CDATA[Marion]]></caption>
+	</image>
+	<image imageURL="images/Lena.jpg"
+	thumbURL="thumbs/Lena.jpg"
+	linkURL="images/Lena.jpg"
+	linkTarget="_blank">
+		<caption><![CDATA[Léna]]></caption>
+	</image>
+	<image imageURL="images/Pat.jpg"
+	thumbURL="thumbs/Pat.jpg"
+	linkURL="images/Pat.jpg"
+	linkTarget="_blank">
+		<caption><![CDATA[Patricia]]></caption>
+	</image>
+	<image imageURL="images/Patricia.jpg"
+	thumbURL="thumbs/Patricia.jpg"
+	linkURL="images/Patricia.jpg"
+	linkTarget="_blank">
+		<caption><![CDATA[Patricia]]></caption>
+	</image>
+	<image imageURL="images/Paul.jpg"
+	thumbURL="thumbs/Paul.jpg"
+	linkURL="images/Paul.jpg"
+	linkTarget="_blank">
+		<caption><![CDATA[Paul]]></caption>
+	</image>
+	<image imageURL="images/Sabine.jpg"
+	thumbURL="thumbs/Sabine.jpg"
+	linkURL="images/Sabine.jpg"
+	linkTarget="_blank">
+		<caption><![CDATA[Sabine]]></caption>
+	</image>
+	<image imageURL="images/Sandrine.jpg"
+	thumbURL="thumbs/Sandrine.jpg"
+	linkURL="images/Sandrine.jpg"
+	linkTarget="_blank">
+		<caption><![CDATA[Sandrine]]></caption>
+	</image>
+	<image imageURL="images/Stephanie.jpg"
+	thumbURL="thumbs/Stephanie.jpg"
+	linkURL="images/Stephanie.jpg"
+	linkTarget="_blank">
+		<caption><![CDATA[Stéphanie]]></caption>
+	</image>
+	<image imageURL="images/Theo.jpg"
+	thumbURL="thumbs/Theo.jpg"
+	linkURL="images/Theo.jpg"
+	linkTarget="_blank">
+		<caption><![CDATA[Théo]]></caption>
+	</image>
+	<image imageURL="images/Vero.jpg"
+	thumbURL="thumbs/Vero.jpg"
+	linkURL="images/Vero.jpg"
+	linkTarget="_blank">
+		<caption><![CDATA[Véronique]]></caption>
+	</image>
+	<image imageURL="images/Maelys.jpg"
+	thumbURL="thumbs/Maelys.jpg"
+	linkURL="images/Maelys.jpg"
+	linkTarget="_blank">
+		<caption><![CDATA[Maelys]]></caption>
+	</image>
+</simpleviewergallery>
